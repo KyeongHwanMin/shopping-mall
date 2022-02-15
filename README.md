@@ -2,11 +2,11 @@
 
 ## 기본 페이지
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f5d93a1-619c-4bce-83ed-bd6c766531f6/Untitled.png)
+
 
 ## 회원가입
+![shoppingmall회원가입](https://user-images.githubusercontent.com/17818416/154066590-3855741b-2710-4ba5-bf84-41ecc7032e0f.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bfff715d-14db-45d0-9282-1a807c41e3cc/Untitled.png)
 
 ## 로그인
 
