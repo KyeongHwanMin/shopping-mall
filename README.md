@@ -1,6 +1,5 @@
 # shopping-mall
 <br>
-
 ## 기본 페이지
 ![기본페이지](https://user-images.githubusercontent.com/17818416/154066694-8464b836-59e0-4d85-803d-825e2e44fdab.png)
 
